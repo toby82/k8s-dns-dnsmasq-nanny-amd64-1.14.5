@@ -1,1 +1,1 @@
-# k8s-dns-dnsmasq-nanny-amd64-1.14.5
+#kubernetes docker image k8s-dns-dnsmasq-nanny-amd64-1.14.5
